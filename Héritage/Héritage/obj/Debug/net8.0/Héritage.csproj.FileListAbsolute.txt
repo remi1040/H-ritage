@@ -1,0 +1,14 @@
+C:\Users\remim\source\repos\Héritage\Héritage\bin\Debug\net8.0\Héritage.exe
+C:\Users\remim\source\repos\Héritage\Héritage\bin\Debug\net8.0\Héritage.deps.json
+C:\Users\remim\source\repos\Héritage\Héritage\bin\Debug\net8.0\Héritage.runtimeconfig.json
+C:\Users\remim\source\repos\Héritage\Héritage\bin\Debug\net8.0\Héritage.dll
+C:\Users\remim\source\repos\Héritage\Héritage\bin\Debug\net8.0\Héritage.pdb
+C:\Users\remim\source\repos\Héritage\Héritage\obj\Debug\net8.0\Héritage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\remim\source\repos\Héritage\Héritage\obj\Debug\net8.0\Héritage.AssemblyInfoInputs.cache
+C:\Users\remim\source\repos\Héritage\Héritage\obj\Debug\net8.0\Héritage.AssemblyInfo.cs
+C:\Users\remim\source\repos\Héritage\Héritage\obj\Debug\net8.0\Héritage.csproj.CoreCompileInputs.cache
+C:\Users\remim\source\repos\Héritage\Héritage\obj\Debug\net8.0\Héritage.dll
+C:\Users\remim\source\repos\Héritage\Héritage\obj\Debug\net8.0\refint\Héritage.dll
+C:\Users\remim\source\repos\Héritage\Héritage\obj\Debug\net8.0\Héritage.pdb
+C:\Users\remim\source\repos\Héritage\Héritage\obj\Debug\net8.0\Héritage.genruntimeconfig.cache
+C:\Users\remim\source\repos\Héritage\Héritage\obj\Debug\net8.0\ref\Héritage.dll
